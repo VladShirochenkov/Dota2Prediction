@@ -7,4 +7,4 @@ Accuracy
 ### Результат
 0.84
 ### Используемые инструменты 
-pandas, numpy, matplotlib, sklearn, lightgbm, xgboost, mlxtend, catboost, hyperopt, os
+pandas, numpy, matplotlib, sklearn, lightgbm, xgboost, mlxtend, catboost, hyperopt, os, bs4, fake_useragent, socks, socket
